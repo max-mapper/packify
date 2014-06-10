@@ -1,6 +1,6 @@
 {
   "name": "packify",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "packs up browserify apps by inlining all assets into one html file",
   "main": "index.js",
   "bin": "cli.js",
@@ -8,9 +8,9 @@
   "license": "BSD",
   "dependencies": {
     "brfs": "^1.1.1",
-    "inline-images": "^1.0.0",
+    "inline-images": "^1.0.1",
     "inline-styles": "^1.0.0",
-    "scriptify": "maxogden/scriptify#updates"
+    "scriptify": "^0.2.0"
   },
   "devDependencies": {},
   "repository": {
