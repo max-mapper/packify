@@ -1,0 +1,22 @@
+{
+  "name": "packify",
+  "version": "1.0.0",
+  "description": "packs up browserify apps by inlining all assets into one html file",
+  "main": "index.js",
+  "bin": "cli.js",
+  "author": "max ogden",
+  "license": "BSD",
+  "dependencies": {
+    "inline-styles": "^1.0.0",
+    "scriptify": "maxogden/scriptify#updates"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/packify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/packify/issues"
+  },
+  "homepage": "https://github.com/maxogden/packify"
+}
