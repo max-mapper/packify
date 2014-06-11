@@ -10,7 +10,8 @@
     "brfs": "^1.1.1",
     "inline-images": "^1.0.1",
     "inline-styles": "^1.0.0",
-    "scriptify": "^0.2.0"
+    "scriptify": "^0.2.0",
+    "concat-stream": "^1.4.6"
   },
   "devDependencies": {},
   "repository": {
